@@ -784,7 +784,7 @@ main {
 }
 .modern-user-type-btn {
   background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(0, 0, 0, 0.2) !important;
   color: var(--color-text);
   padding: 0.75rem 1.5rem;
   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
@@ -820,8 +820,8 @@ main {
 
 .modern-user-type-btn.active {
   background: var(--color-accent);
-  border-color: transparent;
-  color: white;
+  color: white !important;
+  font-weight: 700;
   transform: scale(1.02);
   box-shadow: 0 6px 20px rgba(162, 59, 255, 0.3);
 }

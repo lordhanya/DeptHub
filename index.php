@@ -828,7 +828,7 @@
                         </label>
                     </div>
                 </div>
-
+      
                 <!-- Student Registration Form -->
                 <div id="studentForm" class="user-form active">
                     <form id="studentRegistrationForm" class="modern-form">
@@ -1010,7 +1010,7 @@
                         <i class="bi bi-box-arrow-in-right"></i>
                     </div>
                     <h3 class="modal-title" id="studentModalLabel">Welcome Back</h3>
-                    <p class="text-light opacity-75 mb-0">Sign in to access your dashboard</p>
+                    <p class="text-dark opacity-75 mb-0">Sign in to access your dashboard</p>
                 </div>
                 <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
