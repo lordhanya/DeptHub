@@ -10,3 +10,6 @@ AGENTS.md
 temp/
 cache/
 .aider*
+
+# Ignored files
+get-started.php
